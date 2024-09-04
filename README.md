@@ -15,10 +15,7 @@ Through this course, I’m hoping to learn how to effectively communicate data i
 After graduation, I hope to work as a data scientist or machine learning engineer, ideally focusing on building AI solutions for industries like finance. In addition, I want to continue honing my skills in data visualization because it plays a crucial role in communicating AI and data-driven insights to a wider audience.
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
+These are just placeholders for now!
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
