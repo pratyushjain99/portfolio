@@ -1,1 +1,1 @@
-![Cute Panda](panda.avif)
+![Govt debt ratio](viz-gen-govt-debt.png)
