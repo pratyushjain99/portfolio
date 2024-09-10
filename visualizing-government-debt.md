@@ -1,7 +1,6 @@
 ![Govt debt ratio](viz-gen-govt-debt.png)
 
-<h4>Tableau visualisation: </h3>
-[View Embedded Visualization](https://pratyushjain99.github.io/portfolio/viz.html)
+<h4>Tableau visualisation for Govt debt to GDP ratio</h3>
 
 
 <div class='tableauPlaceholder' id='viz1725995428623' style='position: relative'><noscript><a href='#'><img alt='Govt debt as a percentage of GDP ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;go&#47;govtdebt_17259256607060&#47;GovtdebtasapercentageofGDP&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='govtdebt_17259256607060&#47;GovtdebtasapercentageofGDP' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;go&#47;govtdebt_17259256607060&#47;GovtdebtasapercentageofGDP&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
