@@ -1,4 +1,6 @@
+<h1>Playing with data!</h1>
 
+Hi this is me playing with data and trying to make some cool insightful visualisations! 
 <h2>Visualization 1: Government Debt as a Percentage of GDP (Bar Chart)</h2>
 ![Govt debt ratio](viz-gen-govt-debt.png)
 
