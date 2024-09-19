@@ -35,7 +35,7 @@ This is how it looked at this point of time:
 Also, people said that they can't associate this with US states. So, the obvious next point was to get to MAPS!
 I could not put all the data together on a map, so I referred to [WatchMeViz](https://www.youtube.com/live/-w0ynF43yZg) to get an initial thought. I learnt how to build a Pivot table here and implemented the same in the next visualisation!
 I went ahead with the initial pies and donut graphs on the maps, this captures good information but it was still not pleasing on the eyes.
-After this I applied cloropleth and put all the maps in rows and applied a color grading for good understanding. The one thing I could not implement with the current skills was to add the names and percentages of other AI engines in the tooltip!
+After this I applied cloropleth and put all the maps in rows and applied a color grading for good understanding. The one thing I could not implement with the current skills was to add the names and percentages of other AI engines in the tooltip! And maybe on clicking the tool tip, I could come up with some sort of pie chart there itself (combinining the pie on maps with chloropleth)
 
 At this point the visualisation looked like this:
 ![Initial Chloropleth](maps3.png)
