@@ -10,7 +10,7 @@ The original visualisation looks like this:
 I have chosen this particular visualization because these AI technologies are highly relavant at the forefront of discussions in tech and data science community! By visualizing how different regions in the U.S. engage with these technologies, the visualization not only presents a snapshot of current trends but also offers insights into regional technological adoption and preferences.
 Other than this, when I came across this data, I felt that this data definitely tells some stories, and there were multiple dimensions to explore. For example, for my visualisation, I have made it according to what a person working as a executive in these companies would like to look at for further expansion, or to decide where to put down some marketing dollars. Other than that, we could also do a time-analysis by implementing raunning bar graphs which would answer: "How relevant is this particular AI in current time?".
 
-<My Process: >
+<h2>My Process: </h2>
 So I didn't find much for a person in the company management looking at the chart, so I started to redesign the same!
 So my initial choice was a stacked bar graph which I believed would right away depict how each technology stood against the others within each state. However, upon critique, I realized that while this method shows comparative market share effectively, it fails to provide a clear, immediate understanding of each technology's individual market presence. Like, I was unable to figure out what market share was occupied was the middle(yellow depicting midjourney) part.
 ![Stacked Bar chart](stacked-bar.png)
@@ -39,7 +39,7 @@ After this I applied cloropleth and put all the maps in rows and applied a color
 At this point the visualisation looked like this:
 ![Initial Chloropleth](maps3.png)
 
-<h2><Feedback I recieved:/h2>
+<h2>Feedback I recieved:</h2>
 
 D: "The overall visualisation looks fine, captures data, but still the three things on a single canvas looked wierd". They complimented the use of color grading and appriciated the capturing of information. 
 S: "The viz looks interesting, but as a decision maker I would like to focus on one at a time. The color looks good, and map provides context. Maybe change the red to lesser market share and green to more.". They basically asked me to reverse the color grading.
