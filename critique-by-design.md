@@ -42,7 +42,7 @@ At this point the visualisation looked like this:
 <br>
 <h2>Feedback I recieved:</h2>
 <br>
-D: "The overall visualisation looks fine, captures data, but still the three things on a single canvas looked wierd". They complimented the use of color grading and appriciated the capturing of information. 
+D: "The overall visualisation looks fine, captures data, but still the three things on a single canvas looked wierd". They complimented the use of color grading and appriciated the capturing of information. <br>
 S: "The viz looks interesting, but as a decision maker I would like to focus on one at a time. The color looks good, and map provides context. Maybe change the red to lesser market share and green to more.". They basically asked me to reverse the color grading.
 <br>
 I agreed with the feedback and impleemnted the changes. Here's the final visualisation:
