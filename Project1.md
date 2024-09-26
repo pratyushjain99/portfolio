@@ -21,7 +21,9 @@ Call to action: Exactly point out where to put their investment!
 
 
 ## Initial Sketches
-
+![Bar-Graph](p1-bar.png)
+![Stacked-bargraph](p1-stacked-bar.png)
+![Pie-Chart](p1-pie.png)
 
 ## Data Source:
 
