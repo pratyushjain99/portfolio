@@ -22,15 +22,18 @@ Call to action: Exactly point out where to put their investment!
 
 ## Initial Sketches
 ![Bar-Graph](p1-bar.png)
+
 1. Bar Chart: Top Genres in High Paying Customers
 This bar chart  highlights the genres that are most popular among high-paying customers.This visualization will help in identifying waht kind of content appeals most to premium subscribers.
 
 
 ![Stacked-bargraph](p1-stacked-bar.png)
+
 2. Stacked Bar Chart: Multi-Device Access vs. Churn
 This stacked bar chart provides insights into the impact of multi-device access on customer retention and churn. This maybe a key to understanding whether promoting multi-device access, reduce churn rates in our subscribers.
 
 ![Pie-Chart](p1-pie.png)
+
 3. Pie Chart: Subscriber Segment Distribution
 The pie chart is a straightforward visual that breaks down the percentage of subscribers across different tiers: Basic, Standard, and Premium.
 
