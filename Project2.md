@@ -8,6 +8,19 @@ So my story focuses on two different audience: <br>
 1.3.Revenue by Genre (heatmap showing which genres bring the most revenue)<br>
 1.4. Customer segments (pie chart showing what percentage of total belongs to which segment of customer (basic, standard, premium)).
 
+   Here's a look:
+
+<div class='tableauPlaceholder' id='viz1728006773302' style='position: relative'><noscript><a href='#'><img alt='Admin Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Su&#47;SubscriptionServices&#47;AdminDashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SubscriptionServices&#47;AdminDashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Su&#47;SubscriptionServices&#47;AdminDashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1728006773302');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1227px';}
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 2. Producer Dashboard: This dashboard is aimed at content producers looking to invest in future projects by kind-of exploring audience preferences, viewing behavior, and content profitability. I have introduced this after my user research, so it's a bit half baked. I have worked on visualisations, but not made the final dashboard yet...<br>
 The visualisations include:<br>
 2.1. Popular Genres among Premium Customers (bar chart highlighting top genres)
