@@ -79,9 +79,7 @@ The personas of CEO and Content Producer really helped guide the direction of th
 1. CEO of Subscription Service Persona:<br>
 Primary Focus: Maximizing profitability, improving customer retention, giving insights about original productions and strategic decision-making for business growth.<br>
 Since they’re already well-versed in customer segmentation, they know how different subscription segments (like Basic, Standard, and Premium) are priced for their service. They also have proper understanding of Customer Lifetime Value (CLTV), how much each customer segment is worth, and what’s required to keep those customers loyal.
-<br>
-The CEO knows company’s costs of content production and acquisition and how much revenue it brings in. They also stay on top of market trends and know what’s going on, especially in terms of customer behavior and content preferences.
-
+The CEO knows company’s costs of content production and acquisition and how much revenue it brings in. They also stay on top of market trends and know what’s going on, especially in terms of customer behavior and content preferences.<br>
 What the CEO really cares about is understanding which genres are driving the most revenue. They want to know what their customers watch and how they can use that information to make decisions about marketing and content development. They’re also keen on reducing customer churn(they know what customer churn is), keeping those high-value subscribers engaged. So, dashboards that make complex financial and audience data easy to digest are a must for helping the CEO make effective decisions.
 
 <br>
