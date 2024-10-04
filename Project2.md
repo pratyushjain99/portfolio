@@ -1,9 +1,18 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+I have went ahead with the Tableau dashboard option. I felt that I have some intresting things which can be done with my subscription services dataset. For reference, you can also visit [Part 1](https://data.world/makeovermonday/generative-ai-search-trends-in-the-united-states).<br>
 
-Text here!
+So my story focuses on two different audience: <br>
+1. C-suite employee (includes CEO, CFO, etc): This one focuses on financial performance, customer preferences, and revenue-generating trends. This will help the decision makes here understand customer behavior, the most profitable content genres, and the customer lifetime value (CLTV). This serves two purposes: One, seeing what my customers want to watch? what their preferences are? what brings most revenue? etc. Second, where to put my marketing money: this includes both marketing dollars and production(eg: similar to netflix originals) which is also told by data. This has four visualisations:<br>
+Customer Lifetime Value Histogram (shows ranges of customer value) <br>
+Genre Preference Trend (bar or line chart showing how customers' genre preferences have shifted over time)<br>
+Revenue by Genre (heatmap showing which genres bring the most revenue)<br>
+and Customer segments (pie chart showing what percentage of total belongs to which segment of customer (basic, standard, premium)).
+
+2. Producer Dashboard: This dashboard is aimed at content producers looking to invest in future projects by kind-of exploring audience preferences, viewing behavior, and content profitability. I have introduced this after my user research, so it's a bit half baked. I have worked on visualisations, but not made the final dashboard yet...<br>
+The visualisations include:<br>
+Popular Genres among Premium Customers (bar chart highlighting top genres)
+Average Viewing Hours per Genre (showing which genres hold the audience's attention the longest)
+Monthly Revenue Breakdown by Genre (stacked bar showing monthly genre-based revenue)
 
 # User research 
 
