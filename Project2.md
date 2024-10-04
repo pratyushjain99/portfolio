@@ -84,7 +84,7 @@ What the CEO really cares about is understanding which genres are driving the mo
 2. Content producer/director persona:<br>
 Primary Focus: Creating and acquiring content that is liked by audience, ensuring high engagement while managing production costs.<br>
 The cost of production is always at the top knowledge! Producing genres like Sci-Fi might be more expensive than something like Comedy, so they have to carefully weigh the cost against the potential returns. They’re also well aware of what content keeps viewers engaged.<br>
-What the content producer really wants to see is data on premium subscribers—what they watch and which genres keep them engaged. Understanding viewing times and engagement is important because it helps them decide where to invest in. They’re also interested in knowing which genres are bringing in the most revenue. This information is critical for ensuring that the company’s investment in content pays off.<br>
+What the content producer really wants to see is data on premium subscribers—what they watch and which genres keep them engaged. Understanding viewing times and engagement is important because it helps them decide where to invest in. They’re also interested in knowing which genres are bringing in the most revenue. This information is critical for ensuring that the company’s investment in content pays off.
 They have to balance budget constraints while also keeping up with current market trends They need quick insights into audience preferences and genre profitability for content creation and licensing efforts.
 
 
