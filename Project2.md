@@ -30,23 +30,20 @@ The visualisations include:<br>
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
+Audience Description:<br>
+1. CEO of Subscription Service: Interested in understanding customer profitability, content trends, and actionable insights for maximizing revenue.<br>
+2. Content Producers: Focused on identifying audience preferences and which content genres are worth further investment based on user behavior and revenue data.<br>
 Text here!
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+I found one random person sitting in Rotunda, and two of my friends to complete the interview.
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|Overall Flow|What to do understand by first look and no info given?|
+|Identify improvements in dashboard usability|Is there anything missing?|
+|Insights actionability|Is there anything missing that would help you make a decision more easily? (I described user persona here)|
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
