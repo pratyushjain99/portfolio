@@ -42,7 +42,7 @@ I found one random person sitting in Rotunda, and two of my friends to complete 
 |------|------------------|
 |Overall Flow|What to do understand by first look and no info given?|
 |Identify improvements in dashboard usability|Is there anything missing?|
-|Insights actionability|Is there anything missing that would help you make a decision more easily? (I described user persona here)|
+|Insights actionability|Will you like something more to be included? (I described user persona here)|
 
 
 ## Interview findings
@@ -50,11 +50,11 @@ I found one random person sitting in Rotunda, and two of my friends to complete 
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|What to do understand by first look and no info given?|"At first glance, the charts seem focused on customer value and revenue breakdown by genre. It feels like it's showing the profitability of different types of customers|Amazing, looks good... As a CEO its good. An alternate use can be to present it to producer/director for digital content, but there is no use for CLTV for them.|I immediately see a focus on customer lifetime value and genre preferences. The layout hints at helping me decide what content to focus on, but some connections aren't immediately clear.|
+|Is there anything missing?|Nope, looks good. Colors can be a bit better, the Yellow and Gold is disteracting.|A brief introduction would help first-time users understand what each visualization is trying to say. |There’s a lot of good data here, but I think including a filter to switch between customer types or subscription plans would be helpful. |
+|Will you like something more to be included?|I'd like a clearer breakdown of high-value customers and which genres are attracting them. It seems like this insight is there, which I'd like to know as a CEO!|An alternate dashboard for producer/director can cater to more than one audience! So try including that.|It would help if there were more details about the revenue per customer per genre. It’s difficult to make a clear financial decision without seeing how much each customer contributes to the total revenue for a genre. (But I think this was not aas helpful, because a CEO knows how much a user type pays already)|
 
 
 # Identified changes for Part III
@@ -64,18 +64,37 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|Color issue| Changed colors and gradings to grey since colors don't provide any value in CLTV graph.|
+|Adding label|Added legends to pie chart and got rid of legends, since they are not needed anymore.|
+|5 graphs are too squeezed|Got rid of a graph(multi-device access and scatter plot with user-rating vs monthly charges)|
+|Graphs can start around 6000 for premium subscriber bars|Changes axes parameters|
 
-> ...include any final thoughts you have here. 
 
-Text here!
+## Final thoughts
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
-Text here!
+# Persona:
+
+1. CEO of Subscription Service Persona:<br>
+Primary Focus: Maximizing profitability, improving customer retention, giving insights about original productions and strategic decision-making for business growth.<br>
+Since they’re already well-versed in customer segmentation, they know how different subscription segments (like Basic, Standard, and Premium) are priced for their service. They also have proper understanding of Customer Lifetime Value (CLTV), how much each customer segment is worth, and what’s required to keep those customers loyal.
+<br>
+The CEO knows company’s costs of content production and acquisition and how much revenue it brings in. They also stay on top of market trends and know what’s going on, especially in terms of customer behavior and content preferences.
+
+What the CEO really cares about is understanding which genres are driving the most revenue. They want to know what their customers watch and how they can use that information to make decisions about marketing and content development. They’re also keen on reducing customer churn(they know what customer churn is), keeping those high-value subscribers engaged. So, dashboards that make complex financial and audience data easy to digest are a must for helping the CEO make effective decisions.
+
+<br>
+2. Content producer/director persona:<br>
+Primary Focus: Creating and acquiring content that is liked by audience, ensuring high engagement while managing production costs.<br>
+The cost of production is always at the top knowledge! Producing genres like Sci-Fi might be more expensive than something like Comedy, so they have to carefully weigh the cost against the potential returns. They’re also well aware of what content keeps viewers engaged.<br>
+What the content producer really wants to see is data on premium subscribers—what they watch and which genres keep them engaged. Understanding viewing times and engagement is important because it helps them decide where to invest in. They’re also interested in knowing which genres are bringing in the most revenue. This information is critical for ensuring that the company’s investment in content pays off.<br>
+They have to balance budget constraints while also keeping up with current market trends They need quick insights into audience preferences and genre profitability for content creation and licensing efforts.
+
+
+
+
+
+
+
+
 
