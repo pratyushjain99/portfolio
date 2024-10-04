@@ -77,12 +77,10 @@ The personas of CEO and Content Producer really helped guide the direction of th
 # Persona:
 
 1. CEO of Subscription Service Persona:<br>
-Primary Focus: Maximizing profitability, improving customer retention, giving insights about original productions and strategic decision-making for business growth.<br>
+Primary Focus: Maximizing profitability, improving customer retention, giving insights about original productions and strategic decision-making for business growth.
 Since they’re already well-versed in customer segmentation, they know how different subscription segments (like Basic, Standard, and Premium) are priced for their service. They also have proper understanding of Customer Lifetime Value (CLTV), how much each customer segment is worth, and what’s required to keep those customers loyal.
-The CEO knows company’s costs of content production and acquisition and how much revenue it brings in. They also stay on top of market trends and know what’s going on, especially in terms of customer behavior and content preferences.<br>
-What the CEO really cares about is understanding which genres are driving the most revenue. They want to know what their customers watch and how they can use that information to make decisions about marketing and content development. They’re also keen on reducing customer churn(they know what customer churn is), keeping those high-value subscribers engaged. So, dashboards that make complex financial and audience data easy to digest are a must for helping the CEO make effective decisions.
-
-<br>
+The CEO knows company’s costs of content production and acquisition and how much revenue it brings in. They also stay on top of market trends and know what’s going on, especially in terms of customer behavior and content preferences.
+What the CEO really cares about is understanding which genres are driving the most revenue. They want to know what their customers watch and how they can use that information to make decisions about marketing and content development. They’re also keen on reducing customer churn(they know what customer churn is), keeping those high-value subscribers engaged. So, dashboards that make complex financial and audience data easy to digest are a must for helping the CEO make effective decisions.<br>
 2. Content producer/director persona:<br>
 Primary Focus: Creating and acquiring content that is liked by audience, ensuring high engagement while managing production costs.<br>
 The cost of production is always at the top knowledge! Producing genres like Sci-Fi might be more expensive than something like Comedy, so they have to carefully weigh the cost against the potential returns. They’re also well aware of what content keeps viewers engaged.<br>
