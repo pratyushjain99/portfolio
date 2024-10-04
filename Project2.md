@@ -22,9 +22,9 @@ So my story focuses on two different audience: <br>
 
 2. Producer Dashboard: This dashboard is aimed at content producers looking to invest in future projects by kind-of exploring audience preferences, viewing behavior, and content profitability. I have introduced this after my user research, so it's a bit half baked. I have worked on visualisations, but not made the final dashboard yet...<br>
 The visualisations include:<br>
-2.1. Popular Genres among Premium Customers (bar chart highlighting top genres)
-2.2. Average Viewing Hours per Genre (showing which genres hold the audience's attention the longest)
-2.3. Monthly Revenue Breakdown by Genre (stacked bar showing monthly genre-based revenue)
+2.1. Popular Genres among Premium Customers (bar chart highlighting top genres)<br>
+2.2. Average Viewing Hours per Genre (showing which genres hold the audience's attention the longest)<br>
+2.3. Monthly Revenue Breakdown by Genre (stacked bar showing monthly genre-based revenue)<br>
 
 # User research 
 
