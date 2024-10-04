@@ -46,9 +46,6 @@ I found one random person sitting in Rotunda, and two of my friends to complete 
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -70,7 +67,11 @@ Text here!
 |Graphs can start around 6000 for premium subscriber bars|Changes axes parameters|
 
 
-## Final thoughts
+# Final thoughts
+
+I feel that the project has evolved nicely, especially after integrating feedback from user research. The CEO dashboard is now fine-tuned to focus on what matters most: Customer Lifetime Value (CLTV), revenue-driving genres, and customer segments. The changes: like improving the color scheme for better clarity and removing unnecessary graphs—really made the visualizations clearer for decision-making. <br>
+For the Producer dashboard, it's still a bit of a work in progress, but the core visualizations are in place. Based on user feedback, I need to make sure it better reflects the needs of content producers, like highlighting which genres are most popular with premium subscribers and tracking engagement over time. Moving forward, adding interactivity (like filters for subscription types) will make the dashboards even more actionable and user-friendly for this persona (Since, a action director may only prefer stats about his genre, or a producer maybe fizated on producing only Comedy).<br>
+The personas of CEO and Content Producer really helped guide the direction of the project. The question format (What would this user need to act on certain thing?) really helped in brainstorming what do include and what to de-prioritize. 
 
 
 # Persona:
