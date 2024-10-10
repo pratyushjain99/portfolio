@@ -2,6 +2,7 @@
 
 # Project Part 1
 
+
 ## Title: Profit Maximisation for Subscription Service
 This project output is meant for an executives making decisions for the subscription company.
 
