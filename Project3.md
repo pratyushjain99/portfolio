@@ -16,6 +16,28 @@ The story goes like this (try toggling and following yourself):
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+## Summary till  Part II
+#### Part I: Profit Maximization for Subscription Service
+
+In Part I, I wanted to analyze customer behavior patterns within the context of a streaming platform, aiming to provide actionable insights for executives at subscription services. The goal was to determine what high-paying users are most interested in and how to maximize profitability by optimizing engagement and retention strategies.<br>
+
+Using a dataset of over 100,000 records from a customer churn dataset, I focused on analyzing various features like SubscriptionType, MonthlyCharges, GenrePreference, and Multi-Device Access. The initial visualizations included a bar chart highlighting the most popular genres among premium customers, a stacked bar chart to show how multi-device access affects churn, and a pie chart that segments customers by subscription tier.<br>
+
+The objective was to help CEO identify which user segments and genres bring in the most value, guiding where to allocate marketing and content production budgets.
+<br>
+#### Part II: Wireframes and Storyboards
+
+In Part II, I focused on creating wireframes and dashboards using Tableau to visually represent the insights. The story focused on two key audiences: C-suite executives (like the CEO and CFO) and content producers/directors. The inclusion of producer/director dashboard was a part of feedback I recieved during user -research.<br>
+
+For the C-suite audience, the dashboard provides a financial lens, helping them understand customer behavior, content performance, and revenue trends. The visualizations include a Customer Lifetime Value (CLTV) histogram, a genre preference trend chart, a revenue heatmap by genre, and a pie chart showing subscriber segmentation.<br>
+
+For the content producers/directors, the dashboard emphasizes audience engagement and content profitability. It includes visualizations like popular genres among premium subscribers, average viewing hours per genre, and a breakdown of monthly revenue by genre. This dashboard helps producers understand where to invest in content based on viewer preferences and engagement trends.<br>
+
+User Research and Findings I conducted user interviews with a few individuals to refine the dashboards. The feedback highlighted improvements in color schemes, the need for clearer breakdowns of high-value customers, and the suggestion to include options of selection of genres for different customer types or subscription plans. Based on this feedback, I made changes, including adjusting colors, removing unnecessary graphs, and fine-tuning the axes parameters for better readability.
+<br>
+I have created personas here, but I have ddescribed then in the later half of this page (i.e. Part III) as well!<br>
+
+Overall, Part II focused on translating data into meaningful visualizations that provide insights for different decision-makers, guiding them in making informed, strategic decisions.
 
 # Changes made since Part II
 
