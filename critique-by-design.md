@@ -1,4 +1,4 @@
-| [home page](https://pratyushjain99.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](Project1) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://pratyushjain99.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](Project1) | [final project II](Project2) | [final project III](Project3) |
 <h1>Comparing market shares and penetration percentage</h1>
 
 For this visualisation, I have chosen the dataset containing Generative AI Search Trends in the United States!
