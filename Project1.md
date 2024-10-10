@@ -1,3 +1,5 @@
+| [home page](https://pratyushjain99.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](Project1) | [final project II](Project2) | [final project III](Project3) |
+
 # Project Part 1
 
 ## Title: Profit Maximisation for Subscription Service
