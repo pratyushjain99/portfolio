@@ -57,14 +57,14 @@ As a CEO or CFO of a subscription service, the primary concern is profit maximiz
 
 You know how much each subscriber is worth through metrics like Customer Lifetime Value (CLTV), and you're focused on retaining those high-value customers. What matters most to you is figuring out which genres are generating the most revenue and whether your content investments align with what your audience wants. This dashboard is designed to give you a quick, actionable insight into how genres are performing and where to best utilise your resources to maximize profitability.
 <br>
-###### Call to Action: Focus on retaining premium subscribers and increasing revenue by investing in high-performing genres like Comedy and Drama, while also exploring underutilized genres like Sci-Fi and Fantasy for future growth opportunities.
+##### Call to Action: Focus on retaining premium subscribers and increasing revenue by investing in high-performing genres like Comedy and Drama, while also exploring underutilized genres like Sci-Fi and Fantasy for future growth opportunities.
 
 ### Content Producer/Director
 On the other side, imagine you’re a Producer or Director tasked with creating content for a streaming platform. The goal is to engage your audience while managing production costs. You know that producing certain genres,like Sci-Fi or Action, can be expensive, but these genres often deliver higher engagement. The challenge is striking the right balance between the cost of production and the content’s ability to attract and retain viewers.<br>
 
 You also have a deep understanding of your audience’s preferences. You know that different segments of your audience gravitate toward different genres, and your job is to create or acquire content that aligns with those preferences. This dashboard helps you see which genres resonate most with your audience and how you can adjust your investments to keep viewers engaged while staying within budget.<br>
 
-###### Call to Action: Invest in genres with strong engagement among premium subscribers, like Action and Drama, but remain mindful of production costs. Additionally, pay close attention to what new subscribers are watching, as this can guide future content decisions.
+##### Call to Action: Invest in genres with strong engagement among premium subscribers, like Action and Drama, but remain mindful of production costs. Additionally, pay close attention to what new subscribers are watching, as this can guide future content decisions.
 These personas helped guide the overall structure and design of my dashboards, ensuring the data is presented in a way that’s relevant, easy to understand, and actionable for both decision-makers and content creators.
 
 ## Final design decisions
@@ -76,7 +76,8 @@ Other than the changes I have already mentioned above, I have made some general 
 
 ## References
 Have a look at my visualisation [here](https://public.tableau.com/views/SubscriptionServices/Insights), and the data can be found [here](https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset).<br>
-Other than this I have not used any data or images to tell my story!
+1. S, S. (2023, October 6). Predictive analytics for customer churn: [Dataset. Kaggle.](https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset) <br>
+The dataset was my one and only reference, other than that I have not used any data or images from anywhere to tell my story!
 
 # Final thoughts
 Reflecting on the project, I believe the most critical aspect was tailoring the dashboards to meet the distinct needs of two very different personas. The best way to achieve this was by forming key questions that each persona would need answers for—whether it’s the CEO/CFO seeking insights on profitability and customer retention or the Producer/Director focused on content engagement and cost management.<br>
