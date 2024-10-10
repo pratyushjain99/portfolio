@@ -1,4 +1,4 @@
-| [home page](https://pratyushjain99.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](Project1) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://pratyushjain99.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](Project1) | [final project II](Project2) | [final project III](Project3) |
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU! Here, you’ll find all my cool work throughout the course. I’m passionate about data, and I believe that data-driven stories can make an impact. You should probably hire me if you're looking for someone who loves to combine data with creativity!
 
