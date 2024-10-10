@@ -96,6 +96,25 @@ Other than the changes I have already mentioned above, I have made some general 
 2. Chart selection: Based on user feedback, I removed unnecessary visualizations that were cluttering the dashboard, such as the multi-device access chart and the engagement heatmap, which were not providing meaningful insights. I replaced them with a scatter plot that links viewership to revenue.<br>
 3. Interactive Filters: To make the dashboards more dynamic and interactive , I added filters for genres, allowing the user to drill down into specific genres if they want to focus on a particular type of content esp. for genre-specific director(e.g., Action or Comedy).<br>
 
+#### Some more design choices (what was going in my head while I designed):
+1. Subscriber Segmentation Pie: The red slice represents Basic subscribers, who generate the least revenue, pink is Standard, which is okay, and green is Premium, the highest value. Another goal fot a CEO can be to shift the balance by increasing the green segment. While it appears uniformly distributed now, the focus is to grow the green slice over time as you bring more subscribers into the premium tier.<br>
+
+2. Marketing Strategy: To make the green slice bigger, allocate more marketing dollars and content production towards the genres that either generate high revenue or attract premium subscribers. These actions will drive the shift from basic to premium subscriptions. <br>
+
+3. Gender Preferences by Genre: While the gender preferences for genres seem similar here, this visualization will become more useful as data evolves over time. For instance, in other datasets, Action might be more preferred by males and Romantic Comedies by females. These distinctions become clearer over time. And we can also further track the growth/change in preference over time.<br>
+
+4. Revenue by Genre: Right now, revenue is almost equal across genres, but this dashboard will update monthly (or within a set time) to show which genre is generating the most revenue in that specific period. This is crucial for tracking evolving trends and content profitability in the recent times. What worked 5 years ago may not work now...<br>
+
+5. Genre Trendline Graph: There was a very strong temptation to make this the primary bigger graph. The trendline graph is smaller because it's not as critical as revenue data. While I wanted to make it more prominent, as a C-suite employee or even a producer: revenue is more valuable since revenue matters more than viewership for decision-making.<br>
+
+6. Viewership vs. Revenue Correlation: This was a shock for me! A key takeaway is that the genre with the most viewership isn’t necessarily the one generating the most revenue — there's absolutely no direct correlation here; which is an important insight.<br>
+
+7. Revenue Isn't Everything: It’s also important to note that revenue doesn’t always equal profit. Genres like Sci-Fi may cost more to make, while Comedy is relatively cheaper. So, even high-revenue genres might not be the most profitable. This is a place where background knowledge of a director/producer comes to play.<br>
+
+8. Director’s Focus: Directors can click on their specific genre to highlight it across all charts, making it easier to focus on the data relevant to their work.<br>
+
+9. Viewership vs. Revenue Plot: This visualization is critical, especially for NEW directors and producers, as it helps them identify their target audience by showing how viewership correlates with revenue generation. They have to choose the most optimal strategy between: Do I want more people to watch my content? OR Do I want to generate more revenue? Or is there a sweet-spot somewhere in between which would be suitable for me!<br>
+
 ## References
 Have a look at my visualisation [here](https://public.tableau.com/views/SubscriptionServices/Insights), and the data can be found [here](https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset).<br>
 1. S, S. (2023, October 6). Predictive analytics for customer churn: [Dataset. Kaggle.](https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset) <br>
