@@ -1,3 +1,4 @@
+| [home page](https://pratyushjain99.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](Project1) | [final project II](Project2) | [final project III](Project3) |
 # Wireframes / storyboards
 I have went ahead with the Tableau dashboard option. I felt that I have some intresting things which can be done with my subscription services dataset. For reference, you can also visit [Part 1](https://data.world/makeovermonday/generative-ai-search-trends-in-the-united-states).<br>
 
