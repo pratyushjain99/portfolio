@@ -16,21 +16,16 @@ Through this course, I’m hoping to learn how to effectively communicate data i
 After graduation, I hope to work as a data scientist or machine learning engineer, ideally focusing on building AI solutions for industries like finance. In addition, I want to continue honing my skills in data visualization because it plays a crucial role in communicating AI and data-driven insights to a wider audience.
 
 # Portfolio
-These are just placeholders for now!
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+This takes you to a bar chart showcaseing government debt-to-GDP ratios across various countries, using OECD data. It highlights nations with higher debt levels, like Japan and Italy, compared to countries with more stable economies.
+## Assignment: [Critique by Design](critique-by-design)
+An analysis of AI search trends across U.S. regions using Google Trends data, tailored for executives evaluating market penetration. The project got better through critiques, ultimately using maps and choropleths for best clarity and impact.
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
-
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+## Final project: [Content That Drives Revenue: Insights for CXOs and Producers](Project3)
+This project analyzed customer behavior and revenue trends for a subscription service, focusing on factors like subscription tiers, genre preferences and churn rates. The resulting dashboards offered insights for C-suite executives and content producers, helping optimize marketing, content creation, and customer retention strategies based on data-driven decisions.
 
 ---
-# Other things I like:
-Pandas:
+
+### Also, I love these pandas(not the python library) too:
 ![Cute Panda](panda.avif)
 > A cute panda relaxing in its natural habitat.
